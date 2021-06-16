@@ -3,7 +3,7 @@
 I'm a PhD student in finance using deep learning to solve quantitative theory models with a focus on the impact of default.<br>
 
 My work:<br>
-  + tech tools: neural nets, reinforcement learning, DDPG, PyTorch
+  + <span style = "color: blue;">tech tools:</span> neural nets, reinforcement learning, DDPG, PyTorch
   + econ tools: general equilibrium, complete markets, incomplete markets, default
  
 <br>
