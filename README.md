@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a PhD student in finance using deep learning to solve theoretical models.
+I'm a PhD student in finance using deep learning to solve quantitative theory models with a focus on the impact of default.
 
 <!--
 **jonasbarth123/jonasbarth123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
