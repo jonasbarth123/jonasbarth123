@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a PhD student in finance using deep learning to solve theoretical models.
+
 <!--
 **jonasbarth123/jonasbarth123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
