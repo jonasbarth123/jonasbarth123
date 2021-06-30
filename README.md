@@ -5,7 +5,7 @@ I write code and play drums.<br>
 
 My work:<br>
   + tech tools: neural nets, reinforcement learning, DDPG, PyTorch
-  + econ tools: general equilibrium, complete markets, incomplete markets, default
+  + econ tools: general equilibrium, default, complete markets, incomplete markets
  
 <br>
 
