@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a PhD student in finance using deep learning to solve quantitative theory models with a focus on the impact of default.<br>
+I use deep learning to solve quantitative financial theory models with a focus on the impact of default.<br>
 I write code and play drums.<br>
 
 My work:<br>
